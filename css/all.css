@@ -134,7 +134,7 @@ a:hover{text-decoration:underline;}
 }
 .wrapper-holder {
 	width:100%;
-    display:table-row;
+	display:table-row;
     background: #50af6f;
 }
 .wrapper-holder.grey{background: #28292b;}
@@ -600,6 +600,12 @@ transition: all 0.5s ease-in-out;
 	color: #808286;
 	font-size: 16px;
 	line-height: 30px;
+}
+.popup_portfolio a{
+	font-family: 'novecentosanswide';
+	font-weight:bold;
+	float: right;
+	padding: 8px;
 }
 .popup_portfolio img {
 	width: 100%;
